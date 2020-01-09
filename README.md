@@ -1,7 +1,8 @@
-# Leukemic-B-lymphoblast-Classification
+### Leukemic-B-lymphoblast-Classification
 Codes for the paper "A Hybrid Deep Learning Architecture for Leukemic B-lymphoblast Classification"
 
-Paper Link: 
+Paper Link:
+
 https://ieeexplore.ieee.org/document/8939959
 
 https://arxiv.org/abs/1909.11866
